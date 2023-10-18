@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPzZituKn21ThAuGryU9vV0Uj/dqF+Ve7RdPg3CKcDF0hhq8oPKA3uGpIUNHtO/tZvCFuaJek+csiSI2go1zsw==",
+  "success": true,
+  "projectFilePath": "D:\\study\\3_cours\\ComponentProgramming\\lab_5\\WhoWantsToBeAMillionaire\\InputDataInDB\\InputDataInDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danon\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\danon\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
